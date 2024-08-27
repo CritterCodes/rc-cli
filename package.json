@@ -1,0 +1,20 @@
+{
+  "name": "rc-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating React components, APIs, utils, and contexts files and directories.",  
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "rc": "./bin/rc.js"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "components",
+    "api",
+    "context",
+    "utils"
+  ],
+  "author": "CritterCodes",
+  "license": "MIT"
+}
