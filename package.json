@@ -1,5 +1,5 @@
 {
-  "name": "rc-cli",
+  "name": "rc-cli-tool",
   "version": "1.0.0",
   "description": "A CLI tool for generating React components, APIs, utils, and contexts files and directories.",  
   "main": "index.js",

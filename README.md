@@ -18,7 +18,7 @@
 To install `rc` globally so that you can use it across all your projects:
 
 ```bash
-npm install -g rc-cli
+npm install -g rc-cli-tool
 ```
 
 ### Local Installation
@@ -26,7 +26,7 @@ npm install -g rc-cli
 Alternatively, you can install it locally within your project:
 
 ```bash
-npm install rc-cli --save-dev
+npm install rc-cli-tool --save-dev
 ```
 
 ## Usage
